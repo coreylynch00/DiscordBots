@@ -4,7 +4,7 @@ from pprint import pprint
 import requests
 
 bot = lightbulb.BotApp(
-    token="OTM1NTk3Nzc1MTQ2NTg2MTMy.YfA9VA.nErMeGTVYIrPJPrAKeYEkFw-P_Q", 
+    token="", 
     default_enabled_guilds=(502162705575182336)
 )
 
